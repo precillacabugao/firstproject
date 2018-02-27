@@ -7,7 +7,7 @@ liz = 25
 
 
 if ben < 0:
-    print("people can't be less than 0 zears old")
+    print("people can't be less than 0 years old")
 
 if ben < 18:
     print("you can't see this movie")
