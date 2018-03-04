@@ -1,6 +1,6 @@
 food = kebab
 
-if food == kebab:
+if food == 'kebab:'
     print ("Its delicious")
     print ("I want it for lunch and dinner")
 
